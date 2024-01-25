@@ -4,5 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Cài đặt gói
 
+npm i
 
 
