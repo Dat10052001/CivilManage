@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Cách thông tin liên quan đến app trong 'README.md' nằm ở mục 'src'
+
+Cách trang chính và chức năng chính
+
 ## Available Scripts
 
 In the project directory, you can run:
