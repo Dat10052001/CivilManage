@@ -2,14 +2,6 @@
 
 Phần mềm cơ bản chủ yếu thực hiện để quản lý thông tin và thiết bị IOT
 
-## Cài đặt gói
-
-### `npm i`
-
-## Chạy app
-
-### `npm start`
-
 ## Trang bắt đầu
 ![Trang bắt đầu](screenshots/default.png)
 ### Chức năng
