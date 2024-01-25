@@ -10,4 +10,14 @@ Phần mềm cơ bản chủ yếu thực hiện để quản lý thông tin và
 
 ### `npm start`
 
+## Trang bắt đầu
+![Trang bắt đầu](screenshots/default.png)
+
+## Trang bắt đầu
+![Trang bắt đầu](screenshots/default.png)
+
+## Trang bắt đầu
+![Trang bắt đầu](screenshots/default.png)
+
+## Trang bắt đầu
 ![Trang bắt đầu](screenshots/default.png)
