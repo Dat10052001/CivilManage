@@ -21,6 +21,7 @@ Phần mềm cơ bản chủ yếu thực hiện để quản lý thông tin và
 ### Chức năng
 - Cho phép đăng ảnh cần thiết
 - Cập nhật thông tin trực tuyến
+- Nhận thông báo từ người quản lý
 
 ## Trang quản lý thiết bị
 ![Trang người thuê trọ](screenshots/user2.png)
