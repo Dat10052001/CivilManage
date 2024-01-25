@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Cách thông tin liên quan đến app trong 'README.md' nằm ở mục 'src'
+## Cách trang và chức năng chính trong 'README.md' nằm ở [đây](https://github.com/Dat10052001/CivilManage/tree/main/src)
 
 Cách trang chính và chức năng chính
 
